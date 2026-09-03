@@ -1,0 +1,127 @@
+  <!-- Pricing -->
+  <section id="pricing" class="pricing">
+    <h2 class="section-title">Choose your plan</h2>
+    <p class="section-sub">Creatine needs consistency — subscribe and save, or try a single pack first.</p>
+    <div class="pricing-grid">
+      <div class="price-card">
+        <h3>One-Time Pack</h3>
+        <div class="price">€24.90</div>
+        <p class="price-sub">30-day supply · 60 gummies</p>
+        <ul>
+          <li>3g Creapure® creatine / day</li>
+          <li>Free EU shipping over €35</li>
+          <li>Cancel anytime, no commitment</li>
+        </ul>
+        <a href="https://buy.stripe.com/PASTE_ONE_TIME_PAYMENT_LINK" class="btn btn-ghost btn-block checkout-link" data-plan="one-time">Add to cart</a>
+      </div>
+      <div class="price-card price-card--featured">
+        <span class="badge">Most popular</span>
+        <h3>Subscribe &amp; Save</h3>
+        <div class="price">€19.90<span>/mo</span></div>
+        <p class="price-sub">20% off, every month, free shipping always</p>
+        <ul>
+          <li>3g Creapure® creatine / day</li>
+          <li>Free EU shipping, always</li>
+          <li>Pause, skip or cancel anytime</li>
+        </ul>
+        <a href="https://buy.stripe.com/PASTE_SUBSCRIPTION_PAYMENT_LINK" class="btn btn-primary btn-block checkout-link" data-plan="subscription">Start subscription</a>
+      </div>
+      <div class="price-card">
+        <h3>3-Month Pack</h3>
+        <div class="price">€59.90</div>
+        <p class="price-sub">90-day supply · best for a full loading cycle</p>
+        <ul>
+          <li>3g Creapure® creatine / day</li>
+          <li>Free EU shipping</li>
+          <li>Best value one-time option</li>
+        </ul>
+        <a href="https://buy.stripe.com/PASTE_3MONTH_PAYMENT_LINK" class="btn btn-ghost btn-block checkout-link" data-plan="3-month">Add to cart</a>
+      </div>
+    </div>
+    <p class="guarantee">🛡️ 30-day money-back guarantee — if it's not for you, we'll refund your first pack.</p>
+  </section>
+
+  <!-- FAQ -->
+  <section id="faq" class="faq">
+    <h2 class="section-title">Frequently asked questions</h2>
+    <div class="faq-list">
+      <details>
+        <summary>How much creatine is in each serving?</summary>
+        <p>Each serving (2 gummies) contains 3g of Creapure® creatine monohydrate — the
+        clinically studied daily dose behind the EFSA-approved performance claim.</p>
+      </details>
+      <details>
+        <summary>Do I need to do a "loading phase"?</summary>
+        <p>No. A steady 3g/day builds your muscle creatine stores to full saturation within
+        2–4 weeks — no need for the old high-dose loading protocols.</p>
+      </details>
+      <details>
+        <summary>Is it suitable for vegans?</summary>
+        <p>Yes — KRAFTIQ gummies are 100% vegan, gluten-free, and contain no added sugar.</p>
+      </details>
+      <details>
+        <summary>Will it make me bloated or hold water?</summary>
+        <p>Any water retention with creatine is intramuscular (inside the muscle cell) and
+        supports performance — it is not the subcutaneous "puffy" bloating people worry
+        about.</p>
+      </details>
+      <details>
+        <summary>Can I take it if I don't lift weights?</summary>
+        <p>Yes — creatine also supports high-intensity efforts like running intervals,
+        Hyrox, cycling sprints and everyday energy demands.</p>
+      </details>
+      <details>
+        <summary>Where is it made?</summary>
+        <p>Formulated and batch-tested in Germany, using Creapure®, the highest-purity
+        creatine monohydrate available, manufactured in the EU.</p>
+      </details>
+    </div>
+  </section>
+
+  <!-- Email capture (Klaviyo) -->
+  <section id="newsletter" class="newsletter">
+    <h2>Get 15% off your first order</h2>
+    <p>Join the list for launch offers, restock alerts and training tips. No spam.</p>
+    <form id="klaviyo-signup-form" class="newsletter-form" novalidate>
+      <input type="email" name="email" placeholder="you@example.com" required aria-label="Email address" />
+      <button type="submit" class="btn btn-primary">Subscribe</button>
+    </form>
+    <p id="klaviyo-signup-status" class="newsletter-status" role="status"></p>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="final-cta">
+    <h2>Your strongest self is two gummies a day away.</h2>
+    <a href="#pricing" class="btn btn-primary btn-lg">Shop KRAFTIQ</a>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="footer-top">
+    <div class="logo">KRAFT<span>IQ</span></div>
+    <p>Creatine, without the shaker bottle.</p>
+  </div>
+  <div class="footer-links">
+    <a href="#how-it-works">How it works</a>
+    <a href="#science">Science</a>
+    <a href="#faq">FAQ</a>
+    <a href="contact.html">Contact</a>
+    <a href="privacy.html">Privacy Policy</a>
+    <a href="terms.html">Terms</a>
+    <a href="impressum.html">Impressum</a>
+  </div>
+  <p class="legal">
+    These statements have not been evaluated as medical claims. Creatine's performance
+    benefit is an EFSA-approved health claim (Regulation (EU) 432/2012) at a daily intake
+    of 3g. This product is a food supplement, not a substitute for a varied, balanced diet
+    and healthy lifestyle. Consult a healthcare professional before use if pregnant,
+    breastfeeding, under 18, or managing a medical condition. Keep out of reach of
+    children.
+  </p>
+  <p class="copyright">© 2026 KRAFTIQ. All rights reserved.</p>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>

@@ -13,7 +13,24 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   initKlaviyoSignupForm();
+  initCheckoutLinks();
 });
+
+/**
+ * Pricing CTAs point to Stripe Payment Links (see README "Checkout" section for how to
+ * create them in the Stripe dashboard — no code required, just paste the resulting URL
+ * over the "PASTE_..._PAYMENT_LINK" placeholders in index.html).
+ */
+function initCheckoutLinks() {
+  document.querySelectorAll('.checkout-link').forEach((link) => {
+    link.addEventListener('click', (event) => {
+      if (link.getAttribute('href').includes('PASTE_')) {
+        event.preventDefault();
+        alert('Checkout not yet connected — add your Stripe Payment Link URL in index.html for the "' + link.dataset.plan + '" plan.');
+      }
+    });
+  });
+}
 
 /**
  * Klaviyo email capture, wired to Klaviyo's public "Client Subscribe Profiles" API.
