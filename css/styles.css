@@ -552,3 +552,31 @@ blockquote cite {
   background: var(--white);
 }
 .contact-form button { align-self: flex-start; }
+
+/* Blog */
+.blog-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 30px;
+}
+.blog-card {
+  display: block;
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 24px 28px;
+  transition: transform 0.15s ease;
+}
+.blog-card:hover { transform: translateY(-2px); }
+.blog-card h2 { font-size: 1.2rem; margin-bottom: 8px; }
+.blog-card p { margin: 0; color: var(--gray); }
+
+.blog-post .lead-answer {
+  background: var(--lilac);
+  border-radius: 14px;
+  padding: 16px 20px;
+  font-size: 1.05rem;
+}
+.blog-post h2 { margin-top: 36px; }
+.blog-post h3 { margin-top: 24px; font-size: 1.05rem; }
+.blog-post .compare-table { margin: 20px 0; }
