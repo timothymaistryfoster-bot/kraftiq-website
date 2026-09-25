@@ -26,6 +26,9 @@
 
 ## Pages
 - [Homepage](https://kraftiq.eu/index.html): full product info, science, pricing, FAQ
+- [Blog](https://kraftiq.eu/blog/): evidence-based articles on creatine and training consistency
+  - [Creatine for Women: Does It Really Work? (2026 Evidence Review)](https://kraftiq.eu/blog/creatine-for-women-evidence-review.html)
+  - [Creatine Gummies vs. Powder: Which Actually Gets Taken Every Day?](https://kraftiq.eu/blog/creatine-gummies-vs-powder.html)
 - [Contact](https://kraftiq.eu/contact.html)
 - [Privacy Policy](https://kraftiq.eu/privacy.html)
 - [Terms & Conditions](https://kraftiq.eu/terms.html)
