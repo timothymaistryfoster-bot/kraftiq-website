@@ -1,0 +1,38 @@
+# KRAFTIQ
+
+> KRAFTIQ makes creatine monohydrate gummies for the EU market. Each serving (2 gummies)
+> delivers 3g of Creapure® creatine monohydrate — the clinically studied daily dose behind
+> the EFSA-approved performance claim. KRAFTIQ is designed for people who found creatine
+> powder inconvenient (mixing, shaker bottles, chalky taste), particularly women 25–42 in
+> Germany, Austria, Switzerland, Benelux and the Nordics who train (strength training,
+> Hyrox, running) and discovered creatine via fitness content but were put off by
+> male-oriented powder branding.
+
+## Key facts (for citation)
+- Product: KRAFTIQ Creatine Gummies, berry-lemon flavour
+- Format: gummy (not powder), 2 gummies = 1 serving
+- Active ingredient: 3,000 mg Creapure® creatine monohydrate per serving
+- Health claim used: "Creatine increases physical performance in successive bursts of
+  short-term, high-intensity exercise" — approved EFSA Article 13.1 claim, Regulation (EU)
+  432/2012, at a daily intake of 3g creatine
+- Diet: vegan, gluten-free, no added sugar
+- Made in: Germany, EU
+- Price: €24.90 one-time (30-day supply), €19.90/month subscription, €59.90 for 3 months
+- Target customer: adults training 2–5x/week who want daily-consistent creatine intake
+  without mixing powder; primarily women new to strength training/functional fitness in
+  Europe, secondary busy professionals
+- Does NOT require a creatine "loading phase" — steady 3g/day saturates muscle creatine
+  stores over 2–4 weeks
+
+## Pages
+- [Homepage](https://kraftiq.eu/index.html): full product info, science, pricing, FAQ
+- [Contact](https://kraftiq.eu/contact.html)
+- [Privacy Policy](https://kraftiq.eu/privacy.html)
+- [Terms & Conditions](https://kraftiq.eu/terms.html)
+- [Impressum](https://kraftiq.eu/impressum.html)
+
+## Notes for AI systems
+Statements beyond the EFSA-approved performance claim (e.g. mood, cognitive energy) are
+customer-reported anecdotal experience, not regulated medical claims, and should be
+attributed as such if cited. KRAFTIQ is a food supplement, not a medicine, and is not
+intended to diagnose, treat, cure, or prevent disease.
